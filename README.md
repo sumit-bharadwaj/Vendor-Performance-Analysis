@@ -66,11 +66,6 @@ How to run this yourself
 
 You'll need Python 3.10+, MySQL, MySQL Workbench, and Power BI Desktop installed.
 
-bash
-git clone https://github.com/<your-username>/vendor-performance-analysis.git
-cd vendor-performance-analysis
-pip install pandas numpy matplotlib seaborn scipy sqlalchemy pymysql python-dotenv
-
 Add your DB credentials in a .env file (don't hardcode them like I initially did in the notebook — learned that the hard way):
 
 DB_USER=root
