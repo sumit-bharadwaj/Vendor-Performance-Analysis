@@ -1,5 +1,7 @@
 Vendor Performance Analysis:-
 
+ALL DATA LINK:- https://drive.google.com/drive/project/1IhaEhC2tOQCLUCC_jXe4Ij0GwBcWvra2?usp=sharing 
+
 This is a small end-to-end data analysis project I built to understand vendor and sales performance for a retail/inventory dataset — from raw CSV files all the way to a Power BI dashboard.
 
 Basically I wanted to answer a simple question: are we buying from the right vendors, at the right price, in the right quantity? Turns out the answer was "not really" for a bunch of vendors, and this project is how I found that out.
